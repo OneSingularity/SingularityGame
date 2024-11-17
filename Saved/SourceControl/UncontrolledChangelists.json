@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/locomotion/Walk_Stop.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/locomotion/Idle_Break.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/crouched/Crouh_Walk.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/crouched/Crouch_Idle.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/locomotion/locomotionblendspace1d.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/RPG_character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/TM/XA82DFW53KC7UQS89EZWYQ.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/Justin Hernando/Documents/Unreal Projects/intitialize/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue3.uasset"
+			]
+		}
+	]
+}
